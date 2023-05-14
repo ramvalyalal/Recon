@@ -1,53 +1,12 @@
 # Recon
-<div id="readme" class="Box md js-code-block-container js-code-nav-container js-tagsearch-file Box--responsive"
-          data-tagsearch-path="README.md"
-          data-tagsearch-lang="Markdown">
 
-        <div class="d-flex Box-header border-bottom-0  flex-items-center flex-justify-between color-bg-default rounded-top-2" >
-          <div class="d-flex flex-items-center">
-            <h2 class="Box-title">
-              <a href="#readme" data-view-component="true" class="Link--primary">README.md</a>
-            </h2>
-          </div>
-        </div>
 
-          <div data-target="readme-toc.content" class="Box-body px-5 pb-5">
-            <article class="markdown-body entry-content container-lg" itemprop="text"><h1 tabindex="-1" dir="auto"><a id="user-content-recon-resource" class="anchor" aria-hidden="true" href="#recon-resource"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>recon-resource</h1>
-<p dir="auto">This is all articles talk about how to do recon enjoy reading:</p>
+<h1> Recon Artical </h1>
+        
+<p dir="auto">Some recon articals</p>
 <ul dir="auto">
 <li>
-<p dir="auto"><a href="https://blog.projectdiscovery.io/reconnaissance-series-5-additional-active-reconnaissance/" rel="nofollow">https://blog.projectdiscovery.io/reconnaissance-series-5-additional-active-reconnaissance/</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://twitter.com/ReconOne_bk/status/1642431028470874116?t=NSn9iile3U4Il4UiV9ai5Q&amp;s=08" rel="nofollow">https://twitter.com/ReconOne_bk/status/1642431028470874116?t=NSn9iile3U4Il4UiV9ai5Q&amp;s=08</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://www.offensity.com/en/blog/just-another-recon-guide-pentesters-and-bug-bounty-hunters/?ref=blog.projectdiscovery.io" rel="nofollow">https://www.offensity.com/en/blog/just-another-recon-guide-pentesters-and-bug-bounty-hunters/?ref=blog.projectdiscovery.io</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://bugbountyforum.com/tools/recon/" rel="nofollow">https://bugbountyforum.com/tools/recon/</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://thecyberblogs.com/the-bug-hunters-methodology-v4-recon-tbhmv4/" rel="nofollow">https://thecyberblogs.com/the-bug-hunters-methodology-v4-recon-tbhmv4/</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://eslam3kl.gitbook.io/blog/recon-automation-tips-and-tricks/simple-recon-methodology" rel="nofollow">https://eslam3kl.gitbook.io/blog/recon-automation-tips-and-tricks/simple-recon-methodology</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f" rel="nofollow">https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://orwaatyat.medium.com/" rel="nofollow">https://orwaatyat.medium.com/</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://web.archive.org/web/20221209143311/https://twitter.com/GodfatherOrwa" rel="nofollow">https://web.archive.org/web/20221209143311/https://twitter.com/GodfatherOrwa</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://doepichack.com/category/tips/" rel="nofollow">https://doepichack.com/category/tips/</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://blog.intigriti.com/2023/01/18/bug-bytes-190-bbtips-attacking-wide-scopes-aws-and-containers/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=bug_bytes_190_bbtips_attacking_wide_scopes_aws_and_containers&amp;utm_term=2023-01-18" rel="nofollow">https://blog.intigriti.com/2023/01/18/bug-bytes-190-bbtips-attacking-wide-scopes-aws-and-containers/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=bug_bytes_190_bbtips_attacking_wide_scopes_aws_and_containers&amp;utm_term=2023-01-18</a></p>
-</li>
+
 <li>
 <p dir="auto"><a href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2022-nominations-open" rel="nofollow">https://portswigger.net/research/top-10-web-hacking-techniques-of-2022-nominations-open</a></p>
 </li>
@@ -98,6 +57,38 @@
 </li>
 <li>
 <p dir="auto"><a href="https://infosecwriteups.com/bypass-mysql-real-escape-string-and-addslashes-from-injection-attacks-6e64508e011b?source=rss----7b722bfd1b8d---4" rel="nofollow">https://infosecwriteups.com/bypass-mysql-real-escape-string-and-addslashes-from-injection-attacks-6e64508e011b?source=rss----7b722bfd1b8d---4</a></p>
+</li>
+          \<p dir="auto"><a href="https://blog.projectdiscovery.io/reconnaissance-series-5-additional-active-reconnaissance/" rel="nofollow">https://blog.projectdiscovery.io/reconnaissance-series-5-additional-active-reconnaissance/</a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://twitter.com/ReconOne_bk/status/1642431028470874116?t=NSn9iile3U4Il4UiV9ai5Q&amp;s=08" rel="nofollow">https://twitter.com/ReconOne_bk/status/1642431028470874116?t=NSn9iile3U4Il4UiV9ai5Q&amp;s=08</a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://www.offensity.com/en/blog/just-another-recon-guide-pentesters-and-bug-bounty-hunters/?ref=blog.projectdiscovery.io" rel="nofollow">https://www.offensity.com/en/blog/just-another-recon-guide-pentesters-and-bug-bounty-hunters/?ref=blog.projectdiscovery.io</a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://bugbountyforum.com/tools/recon/" rel="nofollow">https://bugbountyforum.com/tools/recon/</a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://thecyberblogs.com/the-bug-hunters-methodology-v4-recon-tbhmv4/" rel="nofollow">https://thecyberblogs.com/the-bug-hunters-methodology-v4-recon-tbhmv4/</a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://eslam3kl.gitbook.io/blog/recon-automation-tips-and-tricks/simple-recon-methodology" rel="nofollow">https://eslam3kl.gitbook.io/blog/recon-automation-tips-and-tricks/simple-recon-methodology</a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f" rel="nofollow">https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f</a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://orwaatyat.medium.com/" rel="nofollow">https://orwaatyat.medium.com/</a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://web.archive.org/web/20221209143311/https://twitter.com/GodfatherOrwa" rel="nofollow">https://web.archive.org/web/20221209143311/https://twitter.com/GodfatherOrwa</a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://doepichack.com/category/tips/" rel="nofollow">https://doepichack.com/category/tips/</a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://blog.intigriti.com/2023/01/18/bug-bytes-190-bbtips-attacking-wide-scopes-aws-and-containers/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=bug_bytes_190_bbtips_attacking_wide_scopes_aws_and_containers&amp;utm_term=2023-01-18" rel="nofollow">https://blog.intigriti.com/2023/01/18/bug-bytes-190-bbtips-attacking-wide-scopes-aws-and-containers/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=bug_bytes_190_bbtips_attacking_wide_scopes_aws_and_containers&amp;utm_term=2023-01-18</a></p>
 </li>
 <li>
 <p dir="auto"><a href="https://infosecwriteups.com/domain-name-system-0x1-dns-101-cb0aba088abb?source=rss----7b722bfd1b8d---4" rel="nofollow">https://infosecwriteups.com/domain-name-system-0x1-dns-101-cb0aba088abb?source=rss----7b722bfd1b8d---4</a></p>
@@ -344,5 +335,4 @@
 </li>
 </ul>
 </article>
-          </div>
-      </div>
+          </body>
